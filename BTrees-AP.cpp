@@ -3,6 +3,8 @@
 
 int main()
 {
+	/// Pequeño programa para probar la implementación de un árbol B
+
     int degree;
     std::cout << "Enter the degree of B-Tree: ";
     std::cin >> degree;
